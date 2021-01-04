@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deport-emily.github.io/Deport/</id>
     <title>Gridea</title>
-    <updated>2021-01-04T14:45:39.713Z</updated>
+    <updated>2021-01-04T14:53:01.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deport-emily.github.io/Deport/"/>
     <link rel="self" href="https://deport-emily.github.io/Deport/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://deport-emily.github.io/Deport/images/avatar.png</logo>
     <icon>https://deport-emily.github.io/Deport/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[das]]></title>
+        <id>https://deport-emily.github.io/Deport/post/das/</id>
+        <link href="https://deport-emily.github.io/Deport/post/das/">
+        </link>
+        <updated>2021-01-04T14:52:29.000Z</updated>
+        <content type="html"><![CDATA[<p>dududududududud</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://deport-emily.github.io/Deport/post/hello-gridea/</id>
